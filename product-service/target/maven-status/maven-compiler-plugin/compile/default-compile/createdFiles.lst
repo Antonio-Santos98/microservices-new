@@ -1,0 +1,11 @@
+com\mst\productservice\model\Product$ProductBuilder.class
+com\mst\productservice\ProductServiceApplication.class
+com\mst\productservice\model\Product.class
+com\mst\productservice\controller\ProductController.class
+com\mst\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\mst\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\mst\productservice\dto\ProductRequest.class
+com\mst\productservice\service\ProductService.class
+com\mst\productservice\repository\ProductRepository.class
+com\mst\productservice\dto\ProductResponse.class
+com\mst\productservice\util\DataLoader.class
