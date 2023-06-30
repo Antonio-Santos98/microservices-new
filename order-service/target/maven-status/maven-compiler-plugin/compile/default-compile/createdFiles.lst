@@ -2,6 +2,9 @@ com\programming\techie\orderservice\model\OrderLineItems.class
 com\programming\techie\orderservice\repository\OrderRepo.class
 com\programming\techie\orderservice\service\OrderService.class
 com\programming\techie\orderservice\OrderServiceApplication.class
+com\programming\techie\orderservice\config\WebClientConfig.class
+com\programming\techie\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\programming\techie\orderservice\dto\InventoryResponse.class
 com\programming\techie\orderservice\dto\OrderRequest.class
 com\programming\techie\orderservice\controller\OrderController.class
 com\programming\techie\orderservice\model\Order.class
